@@ -57,7 +57,7 @@ O Azure Blob Storage suporta diferentes tipos de blobs, incluindo **Block Blob**
    - Para cargas de trabalho que exigem **acesso rápido e frequente** a partes específicas dos dados.
 
 ---
----
+
 Tabela comparativa dos tipos de redundância de armazenamento no Azure:
 
 | **Tipo de Redundância**      | **Descrição**                                                                 | **Proteção Oferecida**                            | **Regiões**             | **Acesso**                         |
