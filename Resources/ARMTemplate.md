@@ -32,3 +32,11 @@
 | `Get-AzVM`                      | Lista todas as VMs na assinatura.                        |
 
 ---
+
+- **Virtual machines são implantadas em Resource Groups**: Para isso, deve-se usar o cmdlet **`New-AzResourceGroupDeployment`**.
+  
+- **VMs não podem ser implantadas diretamente em assinaturas (subscriptions) ou grupos de gerenciamento (management groups)**: Isso significa que **`New-AzManagementGroupDeployment`** e **`New-AzSubscriptionDeployment`** não podem ser utilizados para este fim.
+
+- **`New-AzVM` pode ser utilizado para criar uma nova VM**: Contudo, esse cmdlet não permite a criação usando um template ARM (Azure Resource Manager). Ele é uma opção direta para provisionar uma máquina virtual sem o uso de modelos predefinidos.
+
+---
