@@ -99,5 +99,3 @@
 - **Management Groups** são uma ferramenta essencial para governança e gerenciamento centralizado no Azure.
 - Use funções apropriadas (Reader, Contributor, Owner) para aplicar o princípio de privilégios mínimos.
 - Aplique políticas e permissões em escala para simplificar a governança organizacional.
-
-Se precisar de exemplos adicionais ou detalhes, é só avisar! 😊
