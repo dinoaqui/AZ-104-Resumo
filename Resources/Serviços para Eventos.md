@@ -2,8 +2,6 @@
 
 ### **Azure Service Bus, Event Hubs e SendGrid**
 
-O Azure oferece serviços distintos para diferentes necessidades de comunicação, processamento de eventos e envio de e-mails. Abaixo, explicamos as principais diferenças e casos de uso para **Azure Service Bus**, **Event Hubs** e **SendGrid**:
-
 ---
 
 ### **1. Azure Service Bus**
